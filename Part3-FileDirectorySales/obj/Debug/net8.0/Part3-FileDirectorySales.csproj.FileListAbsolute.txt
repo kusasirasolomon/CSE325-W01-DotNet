@@ -1,0 +1,17 @@
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part3-FileDirectorySales\bin\Debug\net8.0\Part3-FileDirectorySales.exe
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part3-FileDirectorySales\bin\Debug\net8.0\Part3-FileDirectorySales.deps.json
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part3-FileDirectorySales\bin\Debug\net8.0\Part3-FileDirectorySales.runtimeconfig.json
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part3-FileDirectorySales\bin\Debug\net8.0\Part3-FileDirectorySales.dll
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part3-FileDirectorySales\bin\Debug\net8.0\Part3-FileDirectorySales.pdb
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part3-FileDirectorySales\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part3-FileDirectorySales\obj\Debug\net8.0\Part3-FileDirectorySales.csproj.AssemblyReference.cache
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part3-FileDirectorySales\obj\Debug\net8.0\Part3-FileDirectorySales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part3-FileDirectorySales\obj\Debug\net8.0\Part3-FileDirectorySales.AssemblyInfoInputs.cache
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part3-FileDirectorySales\obj\Debug\net8.0\Part3-FileDirectorySales.AssemblyInfo.cs
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part3-FileDirectorySales\obj\Debug\net8.0\Part3-FileDirectorySales.csproj.CoreCompileInputs.cache
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part3-FileDirectorySales\obj\Debug\net8.0\Part3-Fi.83908ADF.Up2Date
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part3-FileDirectorySales\obj\Debug\net8.0\Part3-FileDirectorySales.dll
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part3-FileDirectorySales\obj\Debug\net8.0\refint\Part3-FileDirectorySales.dll
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part3-FileDirectorySales\obj\Debug\net8.0\Part3-FileDirectorySales.pdb
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part3-FileDirectorySales\obj\Debug\net8.0\Part3-FileDirectorySales.genruntimeconfig.cache
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part3-FileDirectorySales\obj\Debug\net8.0\ref\Part3-FileDirectorySales.dll
