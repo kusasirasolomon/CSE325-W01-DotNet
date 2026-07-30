@@ -1,0 +1,14 @@
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part2-DotNetDebugging\bin\Debug\net8.0\Part2-DotNetDebugging.exe
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part2-DotNetDebugging\bin\Debug\net8.0\Part2-DotNetDebugging.deps.json
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part2-DotNetDebugging\bin\Debug\net8.0\Part2-DotNetDebugging.runtimeconfig.json
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part2-DotNetDebugging\bin\Debug\net8.0\Part2-DotNetDebugging.dll
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part2-DotNetDebugging\bin\Debug\net8.0\Part2-DotNetDebugging.pdb
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part2-DotNetDebugging\obj\Debug\net8.0\Part2-DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part2-DotNetDebugging\obj\Debug\net8.0\Part2-DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part2-DotNetDebugging\obj\Debug\net8.0\Part2-DotNetDebugging.AssemblyInfo.cs
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part2-DotNetDebugging\obj\Debug\net8.0\Part2-DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part2-DotNetDebugging\obj\Debug\net8.0\Part2-DotNetDebugging.dll
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part2-DotNetDebugging\obj\Debug\net8.0\refint\Part2-DotNetDebugging.dll
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part2-DotNetDebugging\obj\Debug\net8.0\Part2-DotNetDebugging.pdb
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part2-DotNetDebugging\obj\Debug\net8.0\Part2-DotNetDebugging.genruntimeconfig.cache
+C:\Users\HOPPERCLOUD\Desktop\repo\CSE325-W01-DotNet\Part2-DotNetDebugging\obj\Debug\net8.0\ref\Part2-DotNetDebugging.dll
